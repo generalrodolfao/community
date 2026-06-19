@@ -20,3 +20,5 @@
 ---
 
 > Legenda: 🟢 Commit feito · 🟡 PR aberto · 🔴 PR merged · ⚪ Issue respondida
+
+| 19 sex | Projeto | `rag-agentic-template` — adicionado CI, badges, testes, pyproject.toml, CONTRIBUTING | [repo](https://github.com/generalrodolfao/rag-agentic-template) |
