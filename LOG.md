@@ -22,3 +22,5 @@
 > Legenda: 🟢 Commit feito · 🟡 PR aberto · 🔴 PR merged · ⚪ Issue respondida
 
 | 19 sex | Projeto | `rag-agentic-template` — adicionado CI, badges, testes, pyproject.toml, CONTRIBUTING | [repo](https://github.com/generalrodolfao/rag-agentic-template) |
+
+| 22 seg | Projeto | **OpenRoute** — roteador inteligente de LLMs com cache semântico, fallback, rastreio de custo | [repo](https://github.com/generalrodolfao/openroute) |
