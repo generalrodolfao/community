@@ -26,7 +26,11 @@
 | 22 seg | Projeto | **OpenRoute** — roteador inteligente de LLMs com cache semântico, fallback, rastreio de custo | [repo](https://github.com/generalrodolfao/openroute) |
 | 23 ter | Análise | Avaliação de issues LangChain/LangGraph — priorizados docs e exemplos | — |
 | 24 qua | Projeto | OpenRoute: CI, badges, testes, `pyproject.toml`, README completo | [repo](https://github.com/generalrodolfao/openroute) |
-| 25 qui | PR | RAGAS: iniciado exemplo em português (em andamento) 🟡 | [repo](https://github.com/generalrodolfao/openroute) |
-| 26 sex | Projeto | spec-to-code adiado — foco em fechar OpenRoute e organizar backlog | — |
+| 25 qui | PR | RAGAS: pesquisa e preparacao do exemplo PT-BR (submetido dia 28) 🟡 | — |
+| 26 sex | Projeto | spec-to-code adiado — foco em fechar OpenRoute (concluido dia 28) | [repo](https://github.com/generalrodolfao/spec-to-code) |
 | 27 sáb | Issue hunt | Triagem de issues em LangFuse — encontrados 3 pontos de contribuição | — |
 | 28 dom | Polish | Refinamento README OpenRoute + ajuste roadmap semana 3 | [repo](https://github.com/generalrodolfao/openroute) |
+
+| 28 dom | Projeto | **spec-to-code** — template spec-driven dev, templates PRD/arch/data/api/components + CLAUDE.md | [repo](https://github.com/generalrodolfao/spec-to-code) |
+| 28 dom | PR | RAGAS: exemplo de avaliacao em portugues (PT-BR) 🟡 | [PR #2794](https://github.com/vibrantlabsai/ragas/pull/2794) |
+| 28 dom | PR | LangChain docs: troubleshooting section na pagina de persistencia do LangGraph 🟡 | [PR #4648](https://github.com/langchain-ai/docs/pull/4648) |
