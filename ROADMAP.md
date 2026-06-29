@@ -18,10 +18,10 @@
 | Dia | Tipo | Atividade | Status |
 |---|---|---|---|
 | 22 seg | Projeto | **OpenRoute** — roteador inteligente de LLMs (caching semântico + fallback) | ✅ |
-| 23 ter | PR | LangChain: melhorar docs de LangGraph checkpointing | 🔄 |
+| 23 ter | PR | LangChain: melhorar docs de LangGraph checkpointing | 🟡 |
 | 24 qua | Projeto | OpenRoute — testes + README + deploy | ✅ |
 | 25 qui | PR | RAGAS: contribuir com exemplo em português | 🟡 |
-| 26 sex | Projeto | **spec-to-code** — template de spec-driven dev com Claude Code | ❌ |
+| 26 sex | Projeto | **spec-to-code** — template de spec-driven dev com Claude Code | ✅ |
 | 27 sáb | Issue hunt | Revisar PRs abertos em LangFuse | 🔄 |
 | 28 dom | Polish | Refinar READMEs dos projetos da semana | ✅ |
 
