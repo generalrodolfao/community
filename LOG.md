@@ -24,3 +24,9 @@
 | 19 sex | Projeto | `rag-agentic-template` — adicionado CI, badges, testes, pyproject.toml, CONTRIBUTING | [repo](https://github.com/generalrodolfao/rag-agentic-template) |
 
 | 22 seg | Projeto | **OpenRoute** — roteador inteligente de LLMs com cache semântico, fallback, rastreio de custo | [repo](https://github.com/generalrodolfao/openroute) |
+| 23 ter | Análise | Avaliação de issues LangChain/LangGraph — priorizados docs e exemplos | — |
+| 24 qua | Projeto | OpenRoute: CI, badges, testes, `pyproject.toml`, README completo | [repo](https://github.com/generalrodolfao/openroute) |
+| 25 qui | PR | RAGAS: iniciado exemplo em português (em andamento) 🟡 | [repo](https://github.com/generalrodolfao/openroute) |
+| 26 sex | Projeto | spec-to-code adiado — foco em fechar OpenRoute e organizar backlog | — |
+| 27 sáb | Issue hunt | Triagem de issues em LangFuse — encontrados 3 pontos de contribuição | — |
+| 28 dom | Polish | Refinamento README OpenRoute + ajuste roadmap semana 3 | [repo](https://github.com/generalrodolfao/openroute) |

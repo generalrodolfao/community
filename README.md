@@ -24,6 +24,30 @@
 
 > Mínimo viável: **1 commit público por dia**. O conteúdo varia, mas a consistência não.
 
+### Modo contingência
+
+Se o PR externo não andar (review lento, bloqueio):
+
+| Bloqueio | Ação alternativa |
+|---|---|
+| PR travado em review | Abrir novo PR em outro repo alvo da lista |
+| Issue hunt sem issues boas | Escrever tutorial/receita no repo do projeto da semana |
+| Projeto atrasado | Reduzir escopo: MVP funcional > README completo > CI depois |
+| Dia perdido | Recuperar no polish de domingo, mas nunca 2 dias sem commit |
+
+---
+
+## Métricas de Sucesso (31 dez 2026)
+
+| Métrica | Alvo |
+|---|---|
+| Dias com commit | 180+ / 196 |
+| PRs merged em projetos externos | 15+ |
+| Repos com ≥5 estrelas | 5+ |
+| Seguidores no GitHub | 80+ |
+| Convites para contribuir / manter | 2+ |
+| Talk/proposta aceita em conferência | 1+ |
+
 ---
 
 ## Por que público?

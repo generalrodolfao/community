@@ -9,33 +9,35 @@
 
 | Dia | Tipo | Atividade | Status |
 |---|---|---|---|
-| 18 qui | PR externo | Identificar issues em LangChain/LangGraph docs | ⬜ |
-| 19 sex | Projeto | `rag-agentic-template` — primeiras estrelas e refinamento | ⬜ |
-| 20 sáb | Issue hunt | Issues de iniciantes em LangChain, responder dúvidas | ⬜ |
+| 18 qui | PR externo | Identificar issues em LangChain/LangGraph docs | ✅ |
+| 19 sex | Projeto | `rag-agentic-template` — primeiras estrelas e refinamento | ✅ |
+| 20 sáb | Issue hunt | Issues de iniciantes em LangChain, responder dúvidas | 🔄 |
 
 ## 📅 Semana 2 (22–28 jun) — Ferramentas
 
 | Dia | Tipo | Atividade | Status |
 |---|---|---|---|
-| 22 seg | Projeto | **OpenRoute** — roteador inteligente de LLMs (caching semântico + fallback) | ⬜ |
-| 23 ter | PR | LangChain: melhorar docs de LangGraph checkpointing | ⬜ |
-| 24 qua | Projeto | OpenRoute — testes + README + deploy | ⬜ |
-| 25 qui | PR | RAGAS: contribuir com exemplo em português | ⬜ |
-| 26 sex | Projeto | **spec-to-code** — template de spec-driven dev com Claude Code | ⬜ |
-| 27 sáb | Issue hunt | Revisar PRs abertos em LangFuse | ⬜ |
-| 28 dom | Polish | Refinar READMEs dos projetos da semana | ⬜ |
+| 22 seg | Projeto | **OpenRoute** — roteador inteligente de LLMs (caching semântico + fallback) | ✅ |
+| 23 ter | PR | LangChain: melhorar docs de LangGraph checkpointing | 🔄 |
+| 24 qua | Projeto | OpenRoute — testes + README + deploy | ✅ |
+| 25 qui | PR | RAGAS: contribuir com exemplo em português | 🟡 |
+| 26 sex | Projeto | **spec-to-code** — template de spec-driven dev com Claude Code | ❌ |
+| 27 sáb | Issue hunt | Revisar PRs abertos em LangFuse | 🔄 |
+| 28 dom | Polish | Refinar READMEs dos projetos da semana | ✅ |
 
-## 📅 Semana 3 (29 jun–5 jul) — Agentes
+## 📅 Semana 3 (29 jun–5 jul) — Agentes (ajustada)
+
+> ⚠️ Semana reduzida: 1 projeto foco + PR da semana anterior + cauda da semana 2.
 
 | Dia | Tipo | Atividade | Status |
 |---|---|---|---|
 | 29 seg | Projeto | **agent-debate** — template de debate entre agentes (LangGraph) | ⬜ |
-| 30 ter | PR | CrewAI: contribuir com exemplo de agente analisador de dados | ⬜ |
-| 01 qua | Projeto | agent-debate — pipeline de raciocínio contraditório | ⬜ |
-| 02 qui | PR | LangGraph: corrigir bug na doc de conditional edges | ⬜ |
-| 03 sex | Projeto | **prompt-arena** — A/B testing de prompts com LangFuse | ⬜ |
-| 04 sáb | Issue hunt | CrewAI issues — tentar resolver 2 issues de iniciante | ⬜ |
-| 05 dom | Polish | Organizar LOG da semana, criar templates de PR | ⬜ |
+| 30 ter | Polish | Finalizar PR do RAGAS (exemplo PT-BR pendente da S2) | ⬜ |
+| 01 qua | Projeto | agent-debate — pipeline de raciocínio contraditório + testes | ⬜ |
+| 02 qui | PR | LangChain/LangGraph: docs de checkpointing (pendente da S2) | ⬜ |
+| 03 sex | Projeto | agent-debate — README, CI, badges, publicar | ⬜ |
+| 04 sáb | Issue hunt | CrewAI — good first issues, responder 1-2 dúvidas | ⬜ |
+| 05 dom | Polish | Organizar LOG, planejar semana 4 com base no ritmo real | ⬜ |
 
 ## 📅 Semana 4 (6–12 jul) — Observabilidade
 
