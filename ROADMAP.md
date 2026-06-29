@@ -93,13 +93,13 @@ O roadmap dos meses seguintes será definido com base no aprendizado das primeir
 
 **Eixos que quero explorar:**
 
-| Mês | Foco |
-|---|---|
-| Agosto | **Agentes em produção** — ferramentas, MCP servers, deploy |
-| Setembro | **Dados & Engenharia** — pipelines, qualidade, governança |
-| Outubro | **Educação & Conteúdo** — templates de curso, ebooks técnicos |
-| Novembro | **Open Source Deep Dive** — contribuições pesadas em projetos estabelecidos |
-| Dezembro | **Retrospectiva & Fechamento** — consolidar, documentar, compartilhar |
+| Mês | Foco | Projetos planejados |
+|---|---|---|
+| Agosto | **Agentes em produção** — ferramentas, MCP servers, deploy | `langgraph-recipes`, `feature-engine-agent`, `ml-pipeline-agent` |
+| Setembro | **Dados & Engenharia** — pipelines, qualidade, governança | `data-quality-agent`, `etl-orchestrator`, `data-observability` |
+| Outubro | **Educação & Conteúdo** — templates de curso, ebooks técnicos | cursos Airflow, RAG, engenharia de dados |
+| Novembro | **Open Source Deep Dive** — contribuições pesadas em projetos estabelecidos | PRs em Airflow, LangGraph, DuckDB |
+| Dezembro | **Retrospectiva & Fechamento** — consolidar, documentar, compartilhar | Cases públicos, talks, artigos |
 
 ---
 
@@ -112,8 +112,10 @@ O roadmap dos meses seguintes será definido com base no aprendizado das primeir
 | [CrewAI](https://github.com/crewAIInc/crewAI) | Exemplos, issues de iniciante | 📝 Docs / 🐛 Bug |
 | [RAGAS](https://github.com/explodinggradients/ragas) | Exemplos em PT-BR, métricas customizadas | 📝 Docs / ✨ Feature |
 | [LangFuse](https://github.com/langfuse/langfuse) | Exemplos de evals, integrações | 📝 Docs / ✨ Feature |
-| [Apache Airflow](https://github.com/apache/airflow) | Providers, exemplos de DAGs | ✨ Feature / 📝 Docs |
+| [Airflow](https://github.com/apache/airflow) | Providers, exemplos de DAGs | ✨ Feature / 📝 Docs |
 | [DuckDB](https://github.com/duckdb/duckdb) | Exemplos, extensões | 📝 Docs |
+| [Feast](https://github.com/feast-dev/feast) | Feature store, exemplos de integração | 📝 Docs / ✨ Feature |
+| [MLflow](https://github.com/mlflow/mlflow) | Tracking, model registry | 📝 Docs |
 | [OpenMetadata](https://github.com/open-metadata/OpenMetadata) | Docs, conectores | 📝 Docs |
 | [Qlik](https://github.com/qlik-oss) | SDK, exemplos | ✨ Feature |
 | [MCP](https://github.com/modelcontextprotocol/servers) | Servidores, exemplos | ✨ Feature |

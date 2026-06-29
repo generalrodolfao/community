@@ -24,6 +24,16 @@
 | **secret-audit** | CLI que varre repositórios git atrás de segredos expostos |
 | **prompt-injection-lab** | Guia + exemplos de ataques e defesas de injeção de prompt |
 
+## 🧪 LangGraph Recipes — Aplicações Reais
+
+| Projeto | Descrição | Stack |
+|---|---|---|
+| **langgraph-recipes** | Coleção de exemplos práticos de LangGraph: agentes, fluxos condicionais, human-in-the-loop, multi-agent orchestration | LangGraph, LangFuse |
+| **feature-engine-agent** | Pipeline de feature engineering com agentes LangGraph: ingestão → validação → transformação → feature store. Inclui point-in-time correctness e time travel. | LangGraph, DuckDB, Feast |
+| **ml-pipeline-agent** | Agente que orquestra pipeline ML end-to-end: split treino/teste, treinamento, avaliação, deploy. Com checkpoints para retomada de falhas. | LangGraph, scikit-learn, MLflow |
+| **data-quality-agent** | Squad de agentes que audita qualidade de dados: um agente por dimensão (completude, frescor, unicidade, consistência). Gera relatório e alertas. | LangGraph, Great Expectations, OpenMetadata |
+| **etl-orchestrator** | Agente que recebe spec de ETL em linguagem natural e gera/monitora DAG no Airflow. Ex: "Ingerir CSV de vendas, limpar nulos, agregar por mês, salvar no PostgreSQL" | LangGraph, Airflow, OpenAI |
+
 ## 💭 Baixa prioridade / Ideias soltas
 
 | Ideia | Notas |
